@@ -12,10 +12,10 @@ public class TInhThue {
         int quantity = sc.nextInt();
         System.out.print("Nhap đơn giá: ");
         double price = sc.nextDouble();
-        double sum=price*quantity;
-        System.out.println("tên sp: "+name);
-        System.out.println("tổng tiền: "+sum);
-        System.out.println("VAT:"+ (sum*0.1));
+        double sum = price * quantity;
+        System.out.println("tên sp: " + name);
+        System.out.println("tổng tiền: " + sum);
+        System.out.println("VAT:" + (sum * 0.1));
 
 
     }

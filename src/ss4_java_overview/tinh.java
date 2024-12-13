@@ -11,10 +11,10 @@ public class tinh {
         System.out.print("nhap so b: ");
         double b = sc.nextDouble();
 
-        System.out.println("tổng a + b: "+ (a+b));
-        System.out.println("tổng a + b: "+ (a-b));
-        System.out.println("tổng a + b: "+ (a*b));
-        System.out.println("tổng a + b: "+ (a/b));
+        System.out.println("tổng a + b: " + (a + b));
+        System.out.println("tổng a + b: " + (a - b));
+        System.out.println("tổng a + b: " + (a * b));
+        System.out.println("tổng a + b: " + (a / b));
 
     }
 }

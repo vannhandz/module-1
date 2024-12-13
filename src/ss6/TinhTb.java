@@ -8,10 +8,10 @@ public class TinhTb {
         System.out.print("nhap diem toan: ");
         double toan = sc.nextInt();
         System.out.print("nhap diem toan: ");
-        double ly=sc.nextInt();
+        double ly = sc.nextInt();
         System.out.print("nhap diem toan: ");
-        double hoa=sc.nextInt();
+        double hoa = sc.nextInt();
 
-        System.out.println("điểm tb: "+(toan + ly + hoa)/3);
+        System.out.println("điểm tb: " + (toan + ly + hoa) / 3);
     }
 }
